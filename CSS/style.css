@@ -1,0 +1,11 @@
+main {
+  display: flex;
+  gap: 2vw
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 10%;
+
+}

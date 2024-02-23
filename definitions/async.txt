@@ -1,0 +1,1 @@
+Une fonction asynchrone est une fonction précédée par le mot-clé async, et qui peut contenir le mot-clé await. async et await permettent un comportement asynchrone, basé sur une promesse (Promise), écrite de façon simple, et évitant de configurer explicitement les chaînes de promesse.
