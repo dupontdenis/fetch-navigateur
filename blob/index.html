@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog in action</title>
+  <link href="https://fonts.googleapis.com/css?family=Cherry+Swash|Raleway" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+
+  <script src="app.mjs"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Images du monde</h1>
+  </header>
+  <div>
+    <aside>
+      <form>
+        <div>
+          <label for="category">Choose a category:</label>
+          <select id="category">
+            <option selected>All</option>
+            <option>Vacances</option>
+            <option>Train</option>
+          </select>
+        </div>
+        <div>
+          <label for="searchTerm">Enter search term:</label>
+          <input type="text" id="searchTerm" placeholder="Plage">
+        </div>
+        <div>
+          <button>Filter results</button>
+        </div>
+      </form>
+    </aside>
+
+    <div class="container">
+      <main class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      </main>
+    </div>
+  </div>
+  <footer>
+  </footer>
+</body>
+
+</html>

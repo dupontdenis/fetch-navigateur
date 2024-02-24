@@ -1,0 +1,26 @@
+[
+  {
+    "name": "voie",
+    "image": "12.jpg",
+    "info": "C'est une voie de chemin de fer qui part de l'Espagne et va à Paris. Elle est très belle.",
+    "type": "train"
+  },
+  {
+    "name": "afrique",
+    "image": "41.jpg",
+    "info": "stutues africaines, et création de SuperDupont. SuperDupont est un super-héros français. Il habite à Paris. Il a un chapeau et une moustache.",
+    "type": "vacances"
+  },
+  {
+    "name": "plage",
+    "image": "44.jpg",
+    "info": "C'est une plage. On peut y nager. On peut y bronzer. On peut y faire des châteaux de sable. On peut y faire des pique-niques.",
+    "type": "vacances"
+  },
+  {
+    "name": "plage",
+    "image": "58.jpg",
+    "info": "C'est le phare de Saint Jean de Luz. Saint Jean de Luz est une ville du Pays Basque. C'est une ville très belle. Il y a beaucoup de maisons blanches. Il y a aussi une belle plage.",
+    "type": "vacances"
+  }
+]
